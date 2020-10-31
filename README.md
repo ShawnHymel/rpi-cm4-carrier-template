@@ -1,4 +1,4 @@
-# Raspberry Pi Compute Module 4 (CM4) Coat Template
+# Raspberry Pi Compute Module 4 (CM4) Shoe Template
 
 A template to help you design your own Raspbeery Pi Compute Module 4 daughterboard. The template comes with the CM4 KiCad library and gives an initial placement of Hirose connectors.
 
