@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "Raspberry Pi Compute Module 4 Shoe Template")
+    (title "Raspberry Pi Compute Module 4 Carrier Template")
     (date "2020-10-31")
     (rev "v01")
     (comment 2 "creativecommons.org/licenses/by-sa/4.0/")

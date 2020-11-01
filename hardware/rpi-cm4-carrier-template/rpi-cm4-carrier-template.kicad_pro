@@ -314,7 +314,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "rpi-cm4-shoe-template.kicad_pro",
+    "filename": "rpi-cm4-carrier-template.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -383,7 +383,7 @@
   },
   "sheets": [
     [
-      "3fada841-6ed9-43e4-aa33-a057f82853e4",
+      "827ef482-b4fb-45f3-ae40-e92483424700",
       ""
     ],
     [
