@@ -48,8 +48,20 @@
   )
 
   (symbol_instances
+    (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/230650eb-8852-4c76-b63c-12ec79910b81"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/31551326-27c6-4bba-a0c0-abe772948a8c"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/463d59ed-ef45-4402-9140-190527b0aff8"
       (reference "Module1") (unit 1) (value "ComputeModule4-CM4") (footprint "CM4IO:Raspberry-Pi-4-Compute-Module")
+    )
+    (path "/caa71f4c-454d-4ac9-b287-456eafb34991/0d0caf91-4ece-48ed-a178-43a8b49f3526"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/caa71f4c-454d-4ac9-b287-456eafb34991/81f0d702-912e-410d-83f3-c9f3bd3f7f28"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/caa71f4c-454d-4ac9-b287-456eafb34991/fafda8be-1326-444e-bcc1-8cb4aded3240"
       (reference "Module1") (unit 2) (value "ComputeModule4-CM4") (footprint "CM4IO:Raspberry-Pi-4-Compute-Module")
