@@ -1173,5 +1173,8 @@
     (property "Digi-Key_PN (Alt)" "2x H124602CT-ND" (id 7) (at -66.04 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Manufacturer" "Hirose" (id 8) (at -66.04 106.68 0))
+    (property "MPN" "2x DF40C-100DS-0.4V" (id 9) (at -66.04 109.22 0))
+    (property "MPN (Alt)" "2x DF40HC(3.0)-100DS-0.4V" (id 10) (at -66.04 106.68 0))
   )
 )
