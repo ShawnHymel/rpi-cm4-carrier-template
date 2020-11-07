@@ -772,7 +772,7 @@
   (gr_text "RPi CM4\nCarrier Template" (at 146.5 106) (layer "B.SilkS") (tstamp 110672d7-ff4b-4a32-a4bd-52ee5afc6c79)
     (effects (font (size 2 2) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "v01" (at 165.5 86.5 90) (layer "B.SilkS") (tstamp adbff8d5-8316-4868-8231-932035d9f8a3)
+  (gr_text "v01" (at 158.5 79.5) (layer "B.SilkS") (tstamp adbff8d5-8316-4868-8231-932035d9f8a3)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "Receptacle component options:\n1.5mm height: 2x Hirose DF40C-100DS-0.4v\nOR\n3.0mm height: 2x Hirose DF40HC(3.0)-100DS-0.4v" (at 184 106.5) (layer "Dwgs.User") (tstamp 39cd078c-0c21-41f2-b32c-acda94f7bc4f)
