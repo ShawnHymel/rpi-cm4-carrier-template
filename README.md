@@ -12,7 +12,7 @@ This project uses the CM4 library parts from the IO board KiCad files ([found he
 
 ## License
 
-Schematic and PCB layout files are licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/2.0/) license.
+Schematic and PCB layout files are licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
 Individual components and footprints found in the CM4IO library are licensed as per the Design Files license found [here](https://datasheets.raspberrypi.org/license.html).
 
